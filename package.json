@@ -1,7 +1,7 @@
 {
   "name": "my_tut_1",
   "version": "0.1.0",
-  "homepage": "https://richard523.github.com/Simple-Math-App",
+  "homepage": "https://richard523.github.io/Simple-Math-App",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
