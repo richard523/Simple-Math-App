@@ -1,5 +1,4 @@
 {
-<<<<<<< Updated upstream
   "name": "my_tut_1",
   "version": "0.1.0",
   "homepage": "https://richard523.github.io/Simple-Math-App",
@@ -45,9 +44,6 @@
     ]
   },
   "devDependencies": {
-=======
-  "dependencies": {
->>>>>>> Stashed changes
     "gh-pages": "^4.0.0"
   }
 }
