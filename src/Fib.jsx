@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 
 const Fib = () => { 
-    // every time button clicked, fibonacci number goes UP  // 0 1 1 2 3 5 8 13 
+    // every time button clicked, fibonacci number goes up  
     const [count, setCount] = useState(1);
     // const [num, setNum] = useState(0);
     const [fib, setFib] = useState(0);
